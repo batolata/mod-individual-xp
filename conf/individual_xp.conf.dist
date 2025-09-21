@@ -24,7 +24,7 @@ IndividualXp.Enabled = true
 #   Default: true
 #
 
-IndividualXp.Announce = true
+IndividualXp.Announce = false
 
 #
 #   IndividualXp.AnnounceRatesOnLogin
